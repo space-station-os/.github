@@ -8,7 +8,20 @@ logo here
 - https://space-station-os.github.io/index.html
 
 ## Projects
-- [Initial demo](https://github.com/space-station-os/space_station_os) Nauka incident estimate and more. Released Nov. 11, 2024.
+
+### Structure
+Space station OS modules in ROS2 environment
+|　|→Simulator
+|　|→Thermal control
+|　|→Attitude control/orbital transfer
+|　|→Power supply/control
+|　|→Communication
+|　|→Life support
+|　|→Manned spacecraft/transporter
+|→manuals and documentatios
+
+### Demos
+- [Demo 1](https://github.com/space-station-os/space_station_os) estimate of Nauka incident on ISS, 2021, and more. Released Nov. 11, 2024.
 
 ## Contributors
 - @yuyuqq Hiroki Kato
