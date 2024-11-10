@@ -26,4 +26,4 @@ Space station OS modules in ROS2 environment
 - Isaac Sim
 
 ## Contact
-For more information, visit our [website](https://spacestationos.com/) or contact us at spacestaionos@spacedata.co.jp .
+For more information, visit our [website](https://spacestationos.com/) or contact us at spacestationos@spacedata.co.jp .
