@@ -1,11 +1,10 @@
 # Space Station OS
-Welcome to the Space Station OS!   
-We are dedicated to developing open-source software for space missions! 
-
 <img src="https://github.com/space-station-os/space-station-os.github.io/raw/main/assets/logo/SSOS_LogoMark_TextSide_Black.png" alt="Space Station OS Logo" width="50%" />
+Welcome to the heart of Space Station OS innovation and development!
 
 ## Concept
-- https://space-station-os.github.io/index.html
+- https://spacestationos.com/
+
 
 ## Projects
 
@@ -27,4 +26,4 @@ Space station OS modules in ROS2 environment
 - Isaac Sim
 
 ## Contact
-For more information, visit our [website](https://space-station-os.github.io) or contact us at info@space-station-os.org.
+For more information, visit our [website](https://spacestationos.com/) or contact us at spacestaionos@spacedata.co.jp .
