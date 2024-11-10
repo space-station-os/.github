@@ -2,7 +2,7 @@
 Welcome to the Space Station OS!   
 We are dedicated to developing open-source software for space missions! 
 
-<img src="https://github.com/space-station-os/space-station-os.github.io/raw/main/assets/logo/spacedata_logo.png" alt="Space Station OS Logo" width="25%" />
+<img src="https://github.com/space-station-os/space-station-os.github.io/raw/main/assets/logo/SSOS_LogoMark_TextSide_Black.png" alt="Space Station OS Logo" width="50%" />
 
 ## Concept
 - https://space-station-os.github.io/index.html
