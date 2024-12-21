@@ -1,5 +1,5 @@
 # Space Station OS
-<img src="https://github.com/space-station-os/space-station-os.github.io/raw/main/assets/logo/SSOS_LogoMark_TextSide_White_BGBlack.png" alt="Space Station OS Logo" width="50%" />
+<img src="https://github.com/space-station-os/space-station-os.github.io/raw/main/source/assets/logo/SSOS_LogoMark_TextSide_White_BGBlack.png" alt="Space Station OS Logo" width="50%" />
 Welcome to the heart of Space Station OS innovation and development!
 
 ## Concept
