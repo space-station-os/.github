@@ -3,7 +3,10 @@
 Welcome to the heart of Space Station OS innovation and development!
 
 ## Documentation
-- **[Space Station OS Documentation (wiki page)](https://github.com/space-station-os/space_station_os/wiki)**
+- **[Space Station OS Documentation - wiki page](https://github.com/space-station-os/space_station_os/wiki)**
+
+## Integration
+- **[Space Station OS repository - integrated](https://github.com/space-station-os/space_station_os)**
 
 ## Demos
 - **[Demo 1](https://github.com/space-station-os/space_station_os)　: Estimates of Nauka incident on ISS in July 2021 and more. Released Nov. 11, 2024.**
