@@ -2,13 +2,11 @@
 <img src="https://github.com/space-station-os/space-station-os.github.io/raw/main/source/assets/logo/SSOS_LogoMark_TextSide_White_BGBlack.png" alt="Space Station OS Logo" width="50%" />
 Welcome to the heart of Space Station OS innovation and development!
 
-# Documentation and getting started
+## Documentation and getting started
 The [SSOS Documentation Wiki](https://github.com/space-station-os/space_station_os/wiki) provides setup guides and background information that can be helpful.  
 
 ## Main repository
 - [Space Station OS main repository](https://github.com/space-station-os/space_station_os)
-
-- **[Space Station OS Documentation - wiki page](https://github.com/space-station-os/space_station_os/wiki)**
 
 ## Demos
 If you would like to run the demos yourself, please check the README file in each repository.  
