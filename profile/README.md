@@ -11,7 +11,7 @@ The [SSOS Documentation Wiki](https://github.com/space-station-os/space_station_
 ## Demos
 If you would like to run the demos yourself, please check the README file in each repository.  
 To see how it actually works, visit our official YouTube channel:  
-[Space Station OS on YouTube](https://youtube.com/@spacestationos)
+[Space Station OS on YouTube](https://youtube.com/@spacestationos) (new!)
 
 ## Contact
 For inquiries and collaboration, please reach out via our official LinkedIn page:  
